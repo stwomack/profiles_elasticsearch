@@ -1,0 +1,14 @@
+{
+  "name": "profiles_elasticsearch",
+  "version": "1.0.0",
+  "author": "blank",
+  "summary": "Manages profiles_elasticsearch with Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/stwomack/profiles_elasticsearch.git",
+  "project_page": "https://github.com/stwomack/profiles_elasticsearch.git",
+  "issues_url": "https://github.com/stwomack/profiles_elasticsearch.git",
+  "dependencies": [
+  ],
+  "operatingsystem_support": [
+  ]
+}
