@@ -49,7 +49,7 @@ class profiles_elasticsearch (
       'discovery.zen.ping.unicast.hosts'                                              => $master_hosts,
       'action.destructive_requires_name'                                              => true,
       'bootstrap.mlockall'                                                            => true,
-      'watcher.actions.email.service.account.work.profile'                            => 'cf_admins',
+      'watcher.actions.email.service.account.work.profile'                            => 'admins',
       'watcher.actions.email.service.account.work.email_defaults.from'                => 'people@example.com',
       'watcher.actions.email.service.account.work.smtp.auth'                          => 'false',
       'watcher.actions.email.service.account.work.smtp.starttls.enable'               => 'false',
